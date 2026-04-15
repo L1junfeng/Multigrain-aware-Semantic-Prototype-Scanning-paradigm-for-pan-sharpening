@@ -1,4 +1,4 @@
-# CVPR 2026 Highlight: Multigrain-aware Semantic Prototype Scanning and Tri-Token Prompt Learning Embraced High-Order RWKV for Pan-Sharpening
+# [CVPR 2026 Highlight]: Multigrain-aware Semantic Prototype Scanning and Tri-Token Prompt Learning Embraced High-Order RWKV for Pan-Sharpening
 
 <p align="center">
   <a href="https://img.shields.io/badge/CVPR-2026-0A66C2.svg"><img alt="CVPR 2026" src="https://img.shields.io/badge/CVPR-2026-0A66C2.svg"></a>
